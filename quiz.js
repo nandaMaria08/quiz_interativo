@@ -1,21 +1,21 @@
             const quizData = [
             {
-                question: "Qual é a diferença entre as tags <div> e <span> em HTML?",
+                question: "Qual é a diferença entre as tags div e span em HTML?",
                 options: [
-                    "A) <div> é um elemento de bloco, enquanto <span> é um elemento em linha.",
-                    "B) <div> é usado para texto, enquanto <span> é usado para imagens.",
-                    "C) <div> não pode conter outros elementos, enquanto <span> pode.",
+                    "A) div é um elemento de bloco, enquanto span é um elemento em linha.",
+                    "B) div é usado para texto, enquanto span é usado para imagens.",
+                    "C) div não pode conter outros elementos, enquanto span pode.",
                     "D) Não há diferença; ambas são usadas da mesma forma."
                 ],
                 correct: 0
             },
             {
-                question: "Qual atributo é usado para especificar a URL de um link em uma tag <a>?",
+                question: "Qual atributo é usado para especificar a URL de um link em uma tag a?",
                 options: ["A) src", "B) link", "C) href", "D) url"],
                 correct: 2
             },
             {
-                question: "O que faz a tag <meta> em HTML?",
+                question: "O que faz a tag meta em HTML?",
                 options: [
                     "A) Define o título da página",
                     "B) Fornece metadados sobre o documento, como descrição e palavras-chave",
@@ -25,7 +25,7 @@
                 correct: 1
             },
             {
-                question: "Qual é a função do atributo alt em uma tag <img>?",
+                question: "Qual é a função do atributo alt em uma tag img?",
                 options: [
                     "A) Define a largura da imagem",
                     "B) Fornece um texto alternativo para a imagem",
